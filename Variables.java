@@ -2,7 +2,7 @@ import java.io.*;
 
 public class Variables {
     // Java Program to show the use of 
-// Local Variabless
+// Local Variablesssss
 
     public static void main(String[] args)
     {
