@@ -1,12 +1,12 @@
 // Define the Car class
-public class Car {
+public class Class {
     // Attributes of the Car class
     private String make;
     private String model;
     private int year;
 
     // Constructor to initialize the Car object
-    public Car(String make, String model, int year) {
+    public Class(String make, String model, int year) {
         this.make = make;
         this.model = model;
         this.year = year;
