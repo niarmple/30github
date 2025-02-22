@@ -1,4 +1,4 @@
-// Java Program to find the maximum subarray sum using nested loopss 
+// Java Program to find the maximum subarray sum using nested loop
 
 import java.util.Arrays;
 
