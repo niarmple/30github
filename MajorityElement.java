@@ -2,7 +2,7 @@ class MajorityElement {
     public static int findMajorityElement(int[] nums) {
         int candidate = nums[0], count = 1;
 
-        // Step hk1: Find a candidate
+        // Step 1: Find a candidate
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == candidate) {
                 count++;
