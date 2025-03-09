@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class GfG {
+class MaximumSubarray {
 
     // Function to find the sum of subarray with maximum sum
     static int maxSubarraySum(int[] arr) {
