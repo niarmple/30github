@@ -1,18 +1,15 @@
-// Define the Car class
 public class Car {
-    // Attributes of the Car class
+
     private String make;
     private String model;
     private int year;
 
-    // Constructor to initialize the Car object
     public Car(String make, String model, int year) {
         this.make = make;
         this.model = model;
         this.year = year;
     }
 
-    // Getter methods
     public String getMake() {
         return make;
     }
@@ -25,7 +22,6 @@ public class Car {
         return year;
     }
 
-    // Setter methods
     public void setMake(String make) {
         this.make = make;
     }
@@ -38,7 +34,6 @@ public class Car {
         this.year = year;
     }
 
-    // Method to display car details
     public void displayDetails() {
         System.out.println("Car Make: " + make);
         System.out.println("Car Model: " + model);
